@@ -46,7 +46,7 @@
                android:layout_height="match_parent"
                android:layout_weight="1"
                android:src="@drawable/img_btn_about_us"
-               android:background="@color/red"
+               android:background="@drawable/button_selector"
                android:scaleType="fitCenter"/>
 
            <ImageButton
@@ -54,7 +54,7 @@
                android:layout_height="match_parent"
                android:layout_weight="1"
                android:src="@drawable/img_btn_our_people"
-               android:background="@color/red"
+               android:background="@drawable/button_selector"
                android:scaleType="fitCenter"/>
 
        </LinearLayout>>
@@ -71,7 +71,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:src="@drawable/img_btn_outreach"
-                android:background="@color/red"
+                android:background="@drawable/button_selector"
                 android:scaleType="fitCenter"/>
 
             <ImageButton
@@ -79,7 +79,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:src="@drawable/img_btn_research"
-                android:background="@color/red"
+                android:background="@drawable/button_selector"
                 android:scaleType="fitCenter"/>
 
         </LinearLayout>>
