@@ -43,7 +43,8 @@
             android:layout_weight="1"
             android:src="@drawable/img_btn_about_us"
             android:background="@drawable/button_selector"
-            android:scaleType="fitCenter"/>
+            android:scaleType="fitCenter"
+            android:onClick="onclickIcon"/>
 
         <ImageButton
             android:layout_width="0dp"
@@ -51,7 +52,8 @@
             android:layout_weight="1"
             android:src="@drawable/img_btn_our_people"
             android:background="@drawable/button_selector"
-            android:scaleType="fitCenter"/>
+            android:scaleType="fitCenter"
+            android:onClick="onclickIcon"/>
 
         <ImageButton
             android:layout_width="0dp"
@@ -59,7 +61,8 @@
             android:layout_weight="1"
             android:src="@drawable/img_btn_outreach"
             android:background="@drawable/button_selector"
-            android:scaleType="fitCenter"/>
+            android:scaleType="fitCenter"
+            android:onClick="onclickIcon"/>
 
         <ImageButton
             android:layout_width="0dp"
@@ -67,7 +70,8 @@
             android:layout_weight="1"
             android:src="@drawable/img_btn_research"
             android:background="@drawable/button_selector"
-            android:scaleType="fitCenter"/>
+            android:scaleType="fitCenter"
+            android:onClick="onclickIcon"/>
     </LinearLayout>
 
 </LinearLayout>
